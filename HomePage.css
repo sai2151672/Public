@@ -1,0 +1,33 @@
+button {
+    background: rgb(54, 143, 231);
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    width: 200px;
+    height: 100px;
+    
+
+} 
+form {
+    padding-left: 45%;
+    padding-top: 20%;
+}
+
+body {
+    background-image: url(hunt.jpg);
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+}
+
+.blah {
+    background-color: white;
+    width: 500px;
+    height: 100px;
+    text-align: center;
+    margin:auto;
+border: 1px solid black;
+}
+h1 {
+    text-align: center;
+}
